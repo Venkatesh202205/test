@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'venkytest1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DB0476A094D4B9BA5AA2322C7EA4923 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7DFF0191577C4822BBE524CC66B4BA42 }}
